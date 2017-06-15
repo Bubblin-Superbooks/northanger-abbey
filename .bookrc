@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "Northanger Abbey",
-  "type": "text"
+  "type": "text",
+  "book_id": 445
 }
